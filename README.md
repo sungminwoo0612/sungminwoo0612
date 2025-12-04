@@ -36,7 +36,7 @@
 - [RedFin LLM News](https://github.com/team-spark-code)<br>
   AI 뉴스 RAG 질의응답 및 뉴스 출간 백엔드 서비스<br>
   Stack: FastAPI, LangChain, Elasticsearch, RAG Pipeline<br>
-- [Solmakase](https://github.com/sungmin-woo-devops/sol_final_proj_02)<br>
+- [Solmakase](https://github.com/sungminwoo0612/solmakase)<br>
   요구사항을 분석해 최적 인프라 구조와 IaC PoC를 자동 생성하는 솔루션<br>
   Stack: Python, Embeddings, Terraform, AWS, Streamlit<br>
 - [ArchLens](https://github.com/sungmin-woo-devops/hit-aws-object-detection-project)<br>
