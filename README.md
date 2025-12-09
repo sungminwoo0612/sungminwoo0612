@@ -61,10 +61,10 @@
 3. 모델 최적화 – LoRA, PEFT, 양자화 기법 연구  
 4. 자격증 학습 – AWS MLS (Machine Learning Specialty) 준비  
 
+<!--
 ## 문제 해결 & 코드 활동 지표
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungminwoo_devops)](https://solved.ac/sungminwoo_devops/)
 
-<!--
 ![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin-woo-devops&show_icons=true&theme=react)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin-woo-devops&layout=compact&theme=react)
