@@ -39,10 +39,10 @@
 - [Solmakase](https://github.com/sungminwoo0612/solmakase)<br>
   요구사항을 분석해 최적 인프라 구조와 IaC PoC를 자동 생성하는 솔루션<br>
   Stack: Python, Embeddings, Terraform, AWS, Streamlit<br>
-- [ArchLens](https://github.com/sungmin-woo-devops/hit-aws-object-detection-project)<br>
+- [ArchLens](https://github.com/sungminwoo0612/hit-archlens-project)<br>
   AWS 다이어그램에서 아이콘을 탐지하고 구성 인사이트를 제공하는 서비스<br>
   Stack: YOLOv8, LangChain, Gradio<br>
-- [CyCOP(Private Repo)](https://github.com/sungminwoo0612/milab_cycop.git)<br>
+- [CyCOP(Private Repo)](https://github.com/sungminwoo0612/milab_2024_1st_semester)<br>
   보안 취약점을 그래프로 모델링하고 GNN 기반으로 관계를 분석하는 시스템<br>
   Stack: PyTorch Geometric, NetworkX/Neo4j<br>
 - [수원시 버스 노선 시각화 시스템](https://github.com/sungmin-woo-devops/hit-bus-project)<br>
