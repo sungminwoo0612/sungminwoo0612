@@ -33,15 +33,15 @@
 
 
 ## 📌 주요 프로젝트
+- [ArchLens](https://github.com/sungminwoo0612/hit-archlens-project)<br>
+  AWS 다이어그램에서 아이콘을 탐지하고 구성 인사이트를 제공하는 서비스<br>
+  Stack: YOLOv8, LangChain, Gradio<br>
 - [RedFin LLM News](https://github.com/team-spark-code)<br>
   AI 뉴스 RAG 질의응답 및 뉴스 출간 백엔드 서비스<br>
   Stack: FastAPI, LangChain, Elasticsearch, RAG Pipeline<br>
 - [Solmakase](https://github.com/sungminwoo0612/solmakase)<br>
   요구사항을 분석해 최적 인프라 구조와 IaC PoC를 자동 생성하는 솔루션<br>
   Stack: Python, Embeddings, Terraform, AWS, Streamlit<br>
-- [ArchLens](https://github.com/sungminwoo0612/hit-archlens-project)<br>
-  AWS 다이어그램에서 아이콘을 탐지하고 구성 인사이트를 제공하는 서비스<br>
-  Stack: YOLOv8, LangChain, Gradio<br>
 - [CyCOP(Private Repo)](https://github.com/sungminwoo0612/milab_2024_1st_semester)<br>
   보안 취약점을 그래프로 모델링하고 GNN 기반으로 관계를 분석하는 시스템<br>
   Stack: PyTorch Geometric, NetworkX/Neo4j<br>
