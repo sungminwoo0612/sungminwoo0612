@@ -56,8 +56,10 @@
 - 네트워크관리사 2급
 
 ## 문제 해결 & 코드 활동 지표
-![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungminwoo0612&show_icons=true&theme=react)
-&nbsp;
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungminwoo_devops)](https://solved.ac/sungminwoo_devops/)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sungminwoo0612&show_icons=true&theme=react" alt="Sungmin's GitHub stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sungminwoo_devops" alt="Solved.ac Profile" height="195" style="vertical-align: middle;" />
+</p>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungminwoo0612&layout=compact&theme=react) -->
